@@ -1,5 +1,5 @@
 <?php
-$con = mysqli_connect("localhost","state","state123","mustafa");
+$con = mysqli_connect("localhost","db_username","db_password","db_name");
 // Check connection
 if (mysqli_connect_errno())
 {
