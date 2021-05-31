@@ -14,4 +14,5 @@ PHPScript to check the available slots for Covid-19 Vaccination Centers from CoW
 <img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo1.PNG" height="100%" width="100%"><br>
 <img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo2.PNG" height="100%" width="100%"><br>
 <img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo3.PNG" height="100%" width="100%"><br>
-
+<hr>
+<h3>Note:- there is one password protected rar file containing decrypted code. whatsapp me for password</h3>
