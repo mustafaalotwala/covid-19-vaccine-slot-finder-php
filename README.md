@@ -9,5 +9,9 @@ PHPScript to check the available slots for Covid-19 Vaccination Centers from CoW
   <li>enter details of database on config.php file</li>
   <li>run your project localhost/covid-19-vaccine-slot-finder-php</li>
  </ul>
-
+<hr>
+<h2>Demo</h2>
+<img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo1.PNG" height="100%" width="100%"><br>
+<img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo2.PNG" height="100%" width="100%"><br>
+<img src="https://github.com/mustafaalotwala/covid-19-vaccine-slot-finder-php/blob/main/demo3.PNG" height="100%" width="100%"><br>
 
